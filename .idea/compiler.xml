@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="logistics_service_system" />
+        <module name="logistics_company_service" />
+        <module name="logistics_company_interface" />
+        <module name="logistics_web_manager" />
+        <module name="logistics_stat_interface" />
+        <module name="logistics_cargo_interface" />
+        <module name="logistics_domain" />
+        <module name="logistics_dao" />
+        <module name="logistics_cargo_service" />
+        <module name="logistics_stat_service" />
+        <module name="logistics_web_portal" />
+        <module name="logistics_common" />
+        <module name="logistics_feedback_service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
